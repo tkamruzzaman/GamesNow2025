@@ -1,32 +1,32 @@
 # GamesNow Game Jam 2025
 This game is for the `GamesNow Game Jam 2025`.
 
-*"Heading Here"*
+*"That’s My Cutie!"*
 
 # Theme: CUTE
 *"One Line Description Here"*
 
-* [itch.io Page](itch.io link here)
+* [itch.io Page](https://tkamruzzaman.itch.io/thats-my-cutie)
 * [Gameplay Video](game play video link here)
 
 # Team
-* Ammara Nazir - 2D/3D Artist, UI
-* HyeIn	Jung - 3D Artist&Animator
-* JINWOO LEE - 2D Artist, Animator, Game designer
+* HyeIn	Jung - 3D Artist, Animator
 * Mayuko Kudo - Programmer (Unity), 3D Artist, Writer
 * Md Kamruzzaman Tusher	- Producer, Game Designer 
-* Tung Nguyen - Game designer, Unity programmer
 
 # Tools and Resources
   * Unity 6
   * Visual Studio Code
   * Discord
-  * MIRO
-  * Google Docs
-  * Trello??
+  * Miro
+  * GitHub
+  * GitHub Desktop
+  * Trello
   * Photoshop
-  * Blender??
+  * Blender
+  * Canva
+  * Google Fonts
 
-Estimated work hours *~000*
+Estimated work hours **~000**
 
-Our team spans **4** different timezones/countries (**Finland**, **Germany**, **Pakistan** and **South Korea**), and everyone in the group belongs to different countries (**Bangladesh**, **Finland** ,**Germany**, **Pakistan**, and **South Korea**).
+Our team spans *3* different timezones/countries (*Finland*, *Germany*, and *South Korea*), and everyone in the group belongs to different countries (*Bangladesh*, *Japan*, and *South Korea*).
