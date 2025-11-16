@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneNavigation 
+public class SceneNavigation
 {
     public static void LoadScene(Scenes scene)
     {
@@ -11,6 +11,6 @@ public class SceneNavigation
 
 public enum Scenes
 {
-    MainMenu = 0,
+    Menu = 0,
     Game = 1,
 }
