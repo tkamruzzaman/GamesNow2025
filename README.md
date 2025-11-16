@@ -7,7 +7,7 @@ This game is for the `GamesNow Game Jam 2025`.
 *“That’s My Cutie!” is a fast, single-round 3D puzzle game where the player must find the one perfect “cutie” hidden among dozens of quirky ball-shaped creatures. After receiving three randomly selected hints based on cute characteristics—such as big eyes, soft colors, or fluffy textures—the player explores the room, inspects the falling balls, and tries to match each one to the clues. With only few minutes on the clock, the player must pick up their chosen cutie and submit it for judgment. Choose correctly and you’re rewarded with an enthusiastic “Yes! That’s my cutie!” Choose wrong/run out of time, and the floor gives way beneath you for a dramatic game over.*
 
 * [itch.io Page](https://tkamruzzaman.itch.io/thats-my-cutie)
-* [Gameplay Video](game play video link here)
+* [Gameplay Video](https://www.youtube.com/watch?v=HRD2JJN1Ow4)
 
 # Team
 * HyeIn	Jung - 3D Artist, Animator
