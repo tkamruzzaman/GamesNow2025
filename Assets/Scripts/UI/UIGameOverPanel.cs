@@ -15,7 +15,7 @@ public class UIGameOverPanel : MonoBehaviour
 
     void Awake()
     {
-        gameoverText.text = "";
+        //gameoverText.text = "";
         restartButton.onClick.AddListener(OnRestartButtonClicked);
         nextLevelButton.onClick.AddListener(OnNextLevelButtonClicked);
     }
